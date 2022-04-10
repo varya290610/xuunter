@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+}
+nav {
+    background-color: black;
+    padding: 15px;
+    font-style: 25px;
+    color: rgb(177, 238, 190);
+    }
+
+nav a {
+    color:rgb(177, 238, 190);
+    background-color: cornflowerblue;
+    font-size: 20px;
+    text-decoration:none ;
+  border:1px solid white ; 
+  border-radius: 10px;
+  padding: 5px;
+  margin: 10px;
+  }
+
+h1 { 
+    color: #B0E0E6;
+ font-style: 25px;
+  text-decoration:none ;
+    }
+.production{
+   border:5px solid  cornflowerblue;
+  border-radius:10px ;
+  padding: 10px;
+  margin: 5px;
+  text-align: center;
+  background-color: aqua;
+   }
+
+footer p{
+    background-color: burlywood;
+    color: crimson;
+    margin: 5px;
+    font-size: 20px;
+}
